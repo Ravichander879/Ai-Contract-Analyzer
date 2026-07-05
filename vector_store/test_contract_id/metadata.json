@@ -1,0 +1,10 @@
+[
+  {
+    "text": "CONFIDENTIAL SERVICES AGREEMENT\nThis Agreement is entered into on this 4th day of July, 2026, by and between Client Corp ('Client') and\nProvider LLC ('Provider').\n1. SCOPE OF SERVICES\nProvider shall perform software engineering services. Client shall pay Provider within 30 days of\nreceiving invoices. Late payments shall accrue interest of 1.5% per month.\n2. INDEMNIFICATION & LIABILITY\nClient agrees to indemnify, defend, and hold harmless Provider from any and all claims, liabilities,\nlosses, damages, or expenses arising from the performance of services.\nProvider's total liability under this agreement is capped at $1,000,000,000 (One Billion Dollars).",
+    "page_num": 1
+  },
+  {
+    "text": "3. TERMINATION\nEither party may terminate this agreement at any time for convenience with 5 days prior written notice.\nUpon termination, Client shall pay Provider for all services rendered up to the date of termination.",
+    "page_num": 2
+  }
+]
